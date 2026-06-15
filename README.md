@@ -1,16 +1,57 @@
-## Hi there 👋
+Olá, eu sou Lucas Nogueira 👋
 
-<!--
-**bto174930/bto174930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação
 
-Here are some ideas to get you started:
+💻 Focado em Python, Automação de Processos, Dados e Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 São Paulo, Brasil
+
+---
+
+🚀 Tecnologias
+
+- Python
+- Pandas
+- APIs REST
+- Power BI
+- GitHub
+- VS Code
+- Excel
+
+---
+
+📊 Projetos em Destaque
+
+# Dashboard Brasileirão Power BI
+Dashboard interativo para análise histórica do Campeonato Brasileiro utilizando KPIs, DAX e modelagem de dados.
+
+# Machine Learning Imóveis
+Projeto de previsão de preços de imóveis utilizando Python e Machine Learning.
+
+# AppUsuarios
+Aplicação Android desenvolvida em Kotlin com integração de API.
+
+# Calculadora Python
+Projeto para prática de lógica de programação e desenvolvimento de software.
+
+---
+
+🎯 Objetivos
+
+Atualmente busco oportunidades de estágio nas áreas de:
+
+- Análise de Dados
+- Automação de Processos
+- Desenvolvimento Python
+- Back-End
+- Machine Learning
+
+---
+
+📫 Contato
+
+LinkedIn:
+www.linkedin.com/in/lucas-nogueira-021512266
+
+Email:
+ln636095@gmail.com
