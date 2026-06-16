@@ -28,12 +28,8 @@ Dashboard interativo para análise histórica do Campeonato Brasileiro utilizand
 # Machine Learning Imóveis
 Projeto de previsão de preços de imóveis utilizando Python e Machine Learning.
 
-# AppUsuarios
-Aplicação Android desenvolvida em Kotlin com integração de API.
-
-# Calculadora Python
-Projeto para prática de lógica de programação e desenvolvimento de software.
-
+# Automação de Relatórios Financeiros
+Sistema desenvolvido em Python para coleta automática de cotações financeiras, geração de relatórios Excel e envio automatizado por e-mail.
 ---
 
 🎯 Objetivos
