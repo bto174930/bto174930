@@ -1,4 +1,4 @@
-Olá, eu sou Lucas Nogueira 👋
+Olá, eu sou Lucas Nogueira dos Santos
 
 🎓 Estudante de Ciência da Computação
 
