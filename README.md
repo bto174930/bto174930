@@ -30,6 +30,7 @@ Projeto de previsão de preços de imóveis utilizando Python e Machine Learning
 
 # Automação de Relatórios Financeiros
 Sistema desenvolvido em Python para coleta automática de cotações financeiras, geração de relatórios Excel e envio automatizado por e-mail.
+
 ---
 
 🎯 Objetivos
@@ -40,7 +41,6 @@ Atualmente busco oportunidades de estágio nas áreas de:
 - Automação de Processos
 - Desenvolvimento Python
 - Back-End
-- Machine Learning
 
 ---
 
