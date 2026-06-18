@@ -2,8 +2,7 @@ Olá, eu sou Lucas Nogueira dos Santos
 
 🎓 Estudante de Ciência da Computação
 
-💻 Focado em Python, Automação de Processos, Dados e Machine Learning
-
+💻 Focado em Python, Automação de Processos e Dados
 📍 São Paulo, Brasil
 
 ---
