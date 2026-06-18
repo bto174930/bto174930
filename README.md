@@ -14,7 +14,6 @@ Olá, eu sou Lucas Nogueira dos Santos
 - Pandas
 - APIs REST
 - Power BI
-- GitHub
 - VS Code
 - Excel
 
